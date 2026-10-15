@@ -1,2 +1,21 @@
-# Project-Aperture-Gear-E-Commerce-Platform-for-Camera-Accessories-Creator-Equipment
-Aperture Gear – E-commerce web platform for camera accessories and creator gear built with ASP.NET Core, React, and PostgreSQL, featuring Stripe sandbox payments and custom admin management.
+# Aperture Gear - E-Commerce Semester Project
+
+Academic Year 2026-2027  
+Course: E-Commerce  
+
+## Project Overview
+Aperture Gear is a specialized online store catering to photographers, videographers, and content creators. It provides high-performance camera accessories, audio gear, and lighting solutions with real-time stock handling, secure checkout, and comprehensive order lifecycle management.
+
+## Team Members & Responsibilities
+- **Mihai**: Backend Architecture, PostgreSQL Database, Stock Management (A7), Order History (A8), Admin Panel (A9), Sales Dashboard (B4)
+- **Team Member 2**: Frontend Development, Responsive UI (A11), Catalog (A1), Search (A2), Shopping Cart (A3), Checkout Interface (A5)
+- **Team Member 3**: User Authentication & Security (A4, A10), Stripe Sandbox & Webhooks (A6), Automated Testing (A12), Discount Codes (B5)
+
+## Technology Stack
+- **Backend**: ASP.NET Core Web API
+- **Frontend**: React / Next.js, Tailwind CSS
+- **Database**: PostgreSQL
+- **Payment Processing**: Stripe (Sandbox/Test Mode)
+
+## Declared AI Tools Usage
+In compliance with the project guidelines, AI tools (such as ChatGPT, Claude, and GitHub Copilot) are used for boilerplate generation, test case scaffolding, and architectural review. All source code is thoroughly understood, verifiable, and explainable by all team members upon request.
